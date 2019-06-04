@@ -18,3 +18,10 @@ end
 def return_a_value()
   return "Nice"
 end
+
+def last_evaluated_value()
+ "first"
+ "second"
+ "third"
+ "expert"
+ end
