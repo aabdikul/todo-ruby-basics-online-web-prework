@@ -10,3 +10,7 @@ end
 def argue(argument)
   return argument
 end
+
+def greeting(phrase, name)
+  return "#{phrase}, #{name}"
+end
